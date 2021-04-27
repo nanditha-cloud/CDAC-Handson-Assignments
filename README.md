@@ -1,1 +1,1 @@
-I have added all the assignments week wise and along with gerber files I added few output screenshots in the same folder. 
+I have added all the assignments week wise and converted to rar format. In outputs folder, along with gerber files I added few output screenshots in the same folder and also eagle board and schematic files. 
